@@ -12,17 +12,12 @@ and code public (some of my favorites are [RMS](https://stallman.org),
 [SachaChua](https://sachachua.com/blog/) or
 [Prot](https://protesilaos.com/)). I am morally obliged to do my bit.
 
-I consider myself an end-to-end engineer, the kind of engineer that
-can transform product ideas into prototypes in a few nights with some
-cups of tea 🍵. Software is eating the world and Machine Learning is
-eating software. I've spent some years dealing with the development of
-Machine Learning-based products and I learned to design creative
-solutions for complex problems in this new paradigm.
+I consider myself an **end-to-end engineer**, the kind of person that can
+transform ideas into working prototypes in a few nights fueled with
+some cups of tea.
 
-In my free time, I maintain my little side project: 🎧
-[Voilib](https://voilib.com), an AI-based search engine for
-podcasts. If you are a podcast addict like me, you will like it!
-
+In my free time, I maintain some little side [projects](https://unmonoqueteclea.github.io/projects.html) 
+such us [Voilib](https://voilib.com) or [valencia-now](https://valencianow.streamlit.app/).
 ### Follow me
 
 - [My personal webpage](https://unmonoqueteclea.github.io/)

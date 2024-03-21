@@ -20,7 +20,7 @@ In my free time, I maintain some little side [projects](https://unmonoqueteclea.
 such us [voilib](https://voilib.com) or [valencia-now](https://valencianow.streamlit.app/).
 ### Follow me
 
-- [My personal webpage](https://unmonoqueteclea.github.io/)
+- [unmonoqueteclea.github.io](https://unmonoqueteclea.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/pgonzalezcarrizo/)
-- [Twitter](https://twitter.com/unmonoqueteclea)
+- [X (aka Twitter)](https://x.com/unmonoqueteclea)
 - [Ko-Fi](https://ko-fi.com/unmonoqueteclea)

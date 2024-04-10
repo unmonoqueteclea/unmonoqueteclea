@@ -8,8 +8,7 @@ help you understand it. Although you will find me everywhere as
 
 Most of my knowledge comes from other people that made her thoughts
 and code public (some of my favorites are [RMS](https://stallman.org),
-[PG](http://www.paulgraham.com/),
-[SachaChua](https://sachachua.com/blog/) or
+[PG](http://www.paulgraham.com/) or
 [Prot](https://protesilaos.com/)). I am morally obliged to do my bit.
 
 I consider myself an **end-to-end engineer**, the kind of person that can

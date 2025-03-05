@@ -19,5 +19,6 @@ such us [voilib](https://voilib.com) or [valencia-now](https://valencianow.unmon
 
 - [unmonoqueteclea.github.io](https://unmonoqueteclea.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/pgonzalezcarrizo/)
+- [Bluesky](https://bsky.app/profile/unmonoqueteclea.bsky.social)
 - [X (aka Twitter)](https://x.com/unmonoqueteclea)
 - [Ko-Fi](https://ko-fi.com/unmonoqueteclea)

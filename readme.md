@@ -14,7 +14,7 @@ transform ideas into working prototypes in a few nights fueled with
 some cups of tea.
 
 In my free time, I maintain some little side [projects](https://unmonoqueteclea.github.io/projects.html) 
-such us [voilib](https://voilib.com) or [valencia-now](https://valencianow.unmonoqueteclea.freemyip.com/).
+such us [voilib](https://voilib.com) or [valencia-now](https://valencianow.tamarin-avior.ts.net/).
 ### Follow me
 
 - [unmonoqueteclea.github.io](https://unmonoqueteclea.github.io/)
